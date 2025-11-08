@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms** and **MERN Stack**
 - 💡 Exploring the world of **Artificial Intelligence**
 - 🧠 I love solving problems and creating meaningful tech projects
-- 🎯 Goal: Crack internships at top product-based companies (FAANG, etc.)
 - ⚡ Fun fact: I love designing simple UIs and making them functional!
 
 ---
