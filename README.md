@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Tanya Yadav</h1>
 
-<!--
-**heyimtanya/heyimtanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 <b>B.Tech CSE @ PSIT Kanpur</b> <br/>
+  💻 Passionate about <b>AI, Web Development, and DSA</b> <br/>
+  🚀 On a journey to become a <b>Software Engineer</b> ✨
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 🌱 I’m currently learning **Data Structures & Algorithms** and **MERN Stack**
+- 💡 Exploring the world of **Artificial Intelligence**
+- 🧠 I love solving problems and creating meaningful tech projects
+- 🎯 Goal: Crack internships at top product-based companies (FAANG, etc.)
+- ⚡ Fun fact: I love designing simple UIs and making them functional!
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,python,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyimtanya&show_icons=true&theme=tokyonight" alt="Tanya's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyimtanya&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimtanya&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/heyimtanya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanya-yadav-714121298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ A Quote I Love
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+⭐ **Thanks for visiting my profile!** Have a great day 😊
