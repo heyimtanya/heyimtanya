@@ -36,7 +36,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyimtanya&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/java,javascript,python,html,css,nodejs,react/?username=heyimtanya&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimtanya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
