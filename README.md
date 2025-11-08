@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanya+Yadav!+👋;B.Tech+CSE+Student+from+PSIT+Kanpur;AI+%7C+Web+Development+%7C+DSA+Learner;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanya+Yadav!+👋; B.Tech +CSE+Student+from+PSIT+Kanpur ; AI+%7C+Web+Development+%7C+DSA ; Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <h1 align="center">Hey there 👋, I'm Tanya Yadav</h1>
