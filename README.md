@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tanya+Yadav!+👋;B.Tech+CSE+Student+from+PSIT+Kanpur;AI+%7C+Web+Development+%7C+DSA+Learner;Welcome+to+my+GitHub+Profile!">
+</h1>
 
 <h1 align="center">Hey there 👋, I'm Tanya Yadav</h1>
 
@@ -25,6 +25,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,python,git,github,vscode" />
+</p>
+
+---
+
+### ⚡ A Little Bit of Code Energy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="coding gif" />
 </p>
 
 ---
@@ -58,5 +66,9 @@
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heyimtanya&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views counter" />
+</p>
 
 ⭐ **Thanks for visiting my profile!** Have a great day 😊
